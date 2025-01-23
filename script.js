@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Typing Animation
-    const roles = ['AI Developer', 'ML Engineer', 'Python Developer'];
+    const roles = ['AI Developer and Researcher', 'ML Developer', 'LLM developer', 'Python Developer'];
     const dynamicText = document.querySelector('.dynamic-text');
     let roleIndex = 0;
     let charIndex = 0;
